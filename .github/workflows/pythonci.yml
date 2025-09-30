@@ -1,5 +1,5 @@
 
-name: Python application
+name: Pythonci
 
 on:
   push:
